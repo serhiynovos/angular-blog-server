@@ -1,0 +1,4 @@
+{
+    "db": "mongodb://localhost/ng-blog",
+    "secret": "fsdfasdflkadsjfladsjfaksdjfhasdkfjsadhfj"
+}
